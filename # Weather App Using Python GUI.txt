@@ -1,0 +1,54 @@
+# Weather App Using Python GUI
+
+## Project Overview
+
+The Weather App is a simple desktop application developed using Python and Tkinter. It allows users to enter a city name and view real-time weather information by fetching data from the OpenWeatherMap API.
+
+This project demonstrates the use of APIs, JSON parsing, and GUI development in Python.
+
+---
+
+## Features
+
+- User-friendly graphical interface
+- Search weather by city name
+- Displays:
+  - City Name
+  - Temperature
+  - Humidity
+  - Weather Condition
+  - Wind Speed
+- Real-time weather updates
+- Error handling for invalid city names
+
+---
+
+## Technologies Used
+
+- Python
+- Tkinter (GUI)
+- Requests Library
+- OpenWeatherMap API
+- JSON Parsing
+
+---
+
+## Concepts Covered
+
+- APIs (Application Programming Interfaces)
+- HTTP Requests
+- JSON Data Handling
+- GUI Programming using Tkinter
+- Event Handling
+
+---
+
+## Requirements
+
+- Python 3.x
+- requests library
+
+Install the required library using:
+
+```bash
+pip install requests
